@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My note</string>
+    <string name="title_hint">Заголовок</string>
+    <string name="description_hint">Описание</string>
+</resources>

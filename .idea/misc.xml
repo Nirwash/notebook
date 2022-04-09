@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Nirwash/AndroidStudioProjects/test7SQLite/app/src/main/res/drawable-anydpi/ic_add.xml" value="0.375" />
+        <entry key="..\:/Users/Nirwash/AndroidStudioProjects/test7SQLite/app/src/main/res/drawable-anydpi/ic_addImg.xml" value="0.375" />
+        <entry key="..\:/Users/Nirwash/AndroidStudioProjects/test7SQLite/app/src/main/res/drawable-anydpi/ic_add_img.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Nirwash/AndroidStudioProjects/test7SQLite/app/src/main/res/drawable-anydpi/ic_delete.xml" value="0.375" />
+        <entry key="..\:/Users/Nirwash/AndroidStudioProjects/test7SQLite/app/src/main/res/drawable-anydpi/ic_edit.xml" value="0.375" />
+        <entry key="..\:/Users/Nirwash/AndroidStudioProjects/test7SQLite/app/src/main/res/drawable-anydpi/ic_edit_text.xml" value="0.375" />
+        <entry key="..\:/Users/Nirwash/AndroidStudioProjects/test7SQLite/app/src/main/res/drawable-anydpi/ic_photo.xml" value="0.375" />
+        <entry key="..\:/Users/Nirwash/AndroidStudioProjects/test7SQLite/app/src/main/res/drawable-anydpi/ic_save.xml" value="0.375" />
+        <entry key="..\:/Users/Nirwash/AndroidStudioProjects/test7SQLite/app/src/main/res/drawable/ic_outline_edit_note.xml" value="0.375" />
+        <entry key="..\:/Users/Nirwash/AndroidStudioProjects/test7SQLite/app/src/main/res/layout/activity_edit.xml" value="0.35885416666666664" />
+        <entry key="..\:/Users/Nirwash/AndroidStudioProjects/test7SQLite/app/src/main/res/layout/activity_main.xml" value="0.35885416666666664" />
+        <entry key="..\:/Users/Nirwash/AndroidStudioProjects/test7SQLite/app/src/main/res/layout/rc_item.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
